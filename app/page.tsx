@@ -18,7 +18,7 @@ export default function Home() {
           <p>
             Currently, I lead Developer Experience at{" "}
             <Link
-              href="https://together.ai"
+              href="https://togetherai.link/?utm_source=personal-site&utm_medium=referral&utm_campaign=example-app"
               target="_blank"
               className="text-accent underline decoration-accent/30 underline-offset-4 transition-colors hover:decoration-accent"
             >
